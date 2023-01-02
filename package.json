@@ -1,0 +1,14 @@
+{
+  "name": "xplainpad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Jonathan Felicity",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^22.0.0"
+  }
+}
